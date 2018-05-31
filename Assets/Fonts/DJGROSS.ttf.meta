@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44418841ef183f8449290ab2642dffd6
+timeCreated: 1497106414
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DJ Gross
+  fontNames:
+  - DJ Gross
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

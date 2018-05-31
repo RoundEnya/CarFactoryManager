@@ -1,0 +1,8 @@
+GAME INFO
+HOW TO PLAY
+1. BUY PARTS
+Click on the "Buy parts" button in the left corner of the screen and buy at least one piece of each to be able to assemble a car.
+2. ASSEMBLE AND SELL CARS
+If you have enough pieces (listed on the blackboard) you can click the assemble button (the gears in the bottom right corner). After you assembled a car you can click on the "Sell" button and you'll receive the money that you spent on the car and some extra profit.
+3. UPGRADE QUALITY AND PROFIT
+You can upgrade the quality of the car parts and the profit you receive by clicking on the upgrade button. This will increase the price of the car parts and the profit that you receive. In order to unlock upgrade quality button you will have to solve a quiz.

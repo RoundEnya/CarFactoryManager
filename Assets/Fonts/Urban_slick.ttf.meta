@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8e3e5bdec8050804badbf0b79088457c
+timeCreated: 1497106321
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Urban&Slick
+  fontNames:
+  - Urban&Slick
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
