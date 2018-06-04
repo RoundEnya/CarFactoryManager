@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sergiu\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_CarFactoryManager.-562692448.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sergiu\source\repos\CarFactoryManager" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Resources" t="Include">
+          <e p="1.Basic General Knowledge.txt" t="Include" />
+          <e p="1.Stiinte naturale.txt" t="Include" />
+          <e p="10.Biology.txt" t="Include" />
+          <e p="10.Religie.txt" t="Include" />
+          <e p="11.Books and Authors.txt" t="Include" />
+          <e p="11.Sport.txt" t="Include" />
+          <e p="12.Sports.txt" t="Include" />
+          <e p="12.Terra si Natura.txt" t="Include" />
+          <e p="2.Arta si Cultura.txt" t="Include" />
+          <e p="2.General Science.txt" t="Include" />
+          <e p="3.Diverse.txt" t="Include" />
+          <e p="3.World Geography.txt" t="Include" />
+          <e p="4.Chemistry.txt" t="Include" />
+          <e p="4.Economie si finante.txt" t="Include" />
+          <e p="5.Filosofie.txt" t="Include" />
+          <e p="5.Honours and Awards.txt" t="Include" />
+          <e p="6.Geografie.txt" t="Include" />
+          <e p="6.Technology.txt" t="Include" />
+          <e p="7.Famous Personalities.txt" t="Include" />
+          <e p="7.Istoria Romaniei.txt" t="Include" />
+          <e p="8.Istorie universala.txt" t="Include" />
+          <e p="8.Physics.txt" t="Include" />
+          <e p="9.Inventions.txt" t="Include" />
+          <e p="9.Noile mijloace de comunicare IT.txt" t="Include" />
+          <e p="English" t="Include">
+            <e p="buy_parts.txt" t="Include" />
+            <e p="create_profile.txt" t="Include" />
+            <e p="info_scene.txt" t="Include" />
+            <e p="main_interface.txt" t="Include" />
+            <e p="main_scene.txt" t="Include" />
+            <e p="Profile_1.txt" t="Include" />
+            <e p="profile_scene.txt" t="Include" />
+            <e p="Quiz.txt" t="Include" />
+            <e p="settings.txt" t="Include" />
+            <e p="Upgrade.txt" t="Include" />
+          </e>
+          <e p="Romana" t="Include">
+            <e p="buy_parts.txt" t="Include" />
+            <e p="create_profile.txt" t="Include" />
+            <e p="info_scene.txt" t="Include" />
+            <e p="main_interface.txt" t="Include" />
+            <e p="main_scene.txt" t="Include" />
+            <e p="Profile_1.txt" t="Include" />
+            <e p="profile_scene.txt" t="Include" />
+            <e p="Quiz.txt" t="Include" />
+            <e p="settings.txt" t="Include" />
+            <e p="Upgrade.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackgroundChanger.cs" t="Include" />
+          <e p="BaterieManager.cs" t="Include" />
+          <e p="BuyManager.cs" t="Include" />
+          <e p="CarManagerScript.cs" t="Include" />
+          <e p="CarScript.cs" t="Include" />
+          <e p="ChangeExitColor.cs" t="Include" />
+          <e p="ChangeVolume.cs" t="Include" />
+          <e p="Check_Answer.cs" t="Include" />
+          <e p="GiftCadou.cs" t="Include" />
+          <e p="LanguageManager.cs" t="Include" />
+          <e p="NextTrackButtonScript.cs" t="Include" />
+          <e p="PauseButtonScript.cs" t="Include" />
+          <e p="PlayButtonScript.cs" t="Include" />
+          <e p="ProfileManager.cs" t="Include" />
+          <e p="Quiz_Main.cs" t="Include" />
+          <e p="SceneManagement.cs" t="Include" />
+          <e p="selectAge.cs" t="Include" />
+          <e p="SoundPlayer.cs" t="Include" />
+          <e p="SteluteMangaer.cs" t="Include" />
+          <e p="UpgradeManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CarFactoryManager.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
